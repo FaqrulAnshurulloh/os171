@@ -1,0 +1,3 @@
+1)Latihan membuat file
+2)Latihan push dan pull dari server badak ke github
+3)Latihan membuat, menghapus, dan mengedite file lewat terminal
