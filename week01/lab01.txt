@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 faqrul.anshurulloh StafCS 4096 Feb 16 12:01 .
+drwx--x--x  3 faqrul.anshurulloh StafCS 4096 Feb 16 12:54 ..
+drwxr-xr-x  8 faqrul.anshurulloh StafCS 4096 Feb 16 11:56 .git
+-rw-r--r--  1 faqrul.anshurulloh StafCS    7 Feb 16 10:30 README.md
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 key
+-rw-r--r--  1 faqrul.anshurulloh StafCS    0 Feb 16 17:08 lab01.txt
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 log
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 11:47 sandbox
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 11:53 week00
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:35 week01
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:35 week02
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:35 week03
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:35 week04
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:35 week05
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:35 week06
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 week07
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 week08
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 week09
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 week10
+drwxr-xr-x  2 faqrul.anshurulloh StafCS 4096 Feb 16 10:36 xtra
+/home/fasilkom/mahasiswa/f/faqrul.anshurulloh/os171/week01
