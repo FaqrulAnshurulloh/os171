@@ -1,9 +1,3 @@
-Video berdurasi 8 menit 36 detik ini dikutip dari Youtube dengan alamat https://www.youtube.com/watch?v=JfSrHv0qAkw. Video yang berjudul "Understanding C Pointers Programming Tutorial | Is C Pointers Programming Worth The Effort?" ini dipublish pada September 2013 oleh Carlpartz dan telah ditonton sebanyak 18.116 kali.
-
-Pada video ini dibahas tentang 3 poin penting terkait tentang pointer, yaitu konsep dasar tentang pointer, contoh dasar tentang pointer dan kenapa pointer merupakan suatu hal yang penting. Pada poin pertama dijelaskan tentang konsep dasar pointer yang diibaratkan sebagai sebuah pipa(pointer) yang diarahkan kearah sebuah box(variable) dan jika kita meletakan sebuah nilai pada pipa tersebut, kita dapat mengekspektasikan nilai terebut akan diletakan pada box. Ada 2 hal yang bisa kita lakukan terhadap pipa tersebut. Hal pertama adalah melihat kedalam pipa yang diasumsikan sebagai pembacaan sebuah nilai .Hal kedua adalah meletakan seatu pada pipa tersebut yang diasumsikan sebagai mengubah suatu nilai.
-
-Menurut saya pembahasan materi pada video ini sangat mudah dimengerti karena dia dapat mencoba menyampaikan materi dengan pengertian, contoh dan alasan yang mudah dipahami. Pada bagian pengertian dia mencoba mengibaratkan suatu pointer dengan sebuah pipa yang menurut saya sangat membantu orang awal dalam memahami makna dari sebuah pointer. Selanjutnya pada bagian contoh, dia memberikan contoh yang baik dengan memaparkan contoh penggunakan pointer dalam mengeprint sebuah nilai pada variable.
-
 Github Account : FaqrulAnshurulloh
 URL Ulasan : http://faqrulans.blogspot.co.id/2017/05/pointer-in-c-ulasan-1.html
 URL Video : https://www.youtube.com/watch?v=JfSrHv0qAkw

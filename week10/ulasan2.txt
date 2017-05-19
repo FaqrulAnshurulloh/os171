@@ -1,9 +1,3 @@
-Video berdurasi 9 menit 29 detik ini dikutip dari Youtube dengan alamat https://www.youtube.com/watch?v=ydG8cOzJjLA. Video yang berjudul "Intro to Parallel Programming . Lesson 2, pt. 2- Shared Memory and threads" ini dipublish pada Juli 2009 oleh Paul Stainberg dan telah ditonton sebanyak 4.721 kali.
-
-Pada bagian awal video ini dibahas tentang pengaturan thread dengan cara fork/join method dan general model. Dalam video itu disebutkan bahwa jika program kita hanya perlu sebuah thread baru pada kondisi tertentu maka cara fork/join lebih dianjurkan. Sedangkan jika program kita memerlukan kemampuan mengetahui informasi lebih lanjut tentang thread seperti kapan thread diabuat/berhenti, siapa yang akan menjalankan sebuah thread baru jik sudah banyak thread yang dibuat, atau thread mana yang akan menunngu thread lainnya maka general model lebih dianjurkan. Pada bagian kedua video ini dijelaskan tentang fungsi dari sebuah thread yaitu untuk, domain decomposition atau pemecahan dan pembagian sebuah data set, task decomposition atau pemberian sebuah individual kode, dan pipelining data yang mengalir pada sebuah komputasi.
-
-Menurut saya pembahasan materi pada sudah cukup baik karena dia dapat menerangkan secara singkat dan padat tentang manfaat dari sebuah thread pada program. Penjelasan materi juga cukup dimengerti karena dia mencoba memberikan ilustrasi-ilustrasi saat menerangkan materi tersebut. Kekurangannya adalah kecepata bicara si pemberi materi saat menerangkan.
-
 Github Account : FaqrulAnshurulloh
 URL Ulasan : http://faqrulans.blogspot.co.id/2017/05/video-berdurasi-9-menit-29-detik-ini.html
 URL Video : https://www.youtube.com/watch?v=ydG8cOzJjLA
